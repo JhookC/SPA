@@ -1,0 +1,22 @@
+{
+  "name": "angular_spa",
+  "authors": [
+    "Jeffrey Hooker Corredor <jhookc@gmail.com>"
+  ],
+  "description": "Base angular spa",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "jquery": "^3.1.0"
+  }
+}
